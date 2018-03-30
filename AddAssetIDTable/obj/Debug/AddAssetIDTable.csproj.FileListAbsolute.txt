@@ -1,0 +1,10 @@
+C:\ESRI\AddAssetIDTable\AddAssetIDTable\bin\Debug\AddAssetIDTable.exe.config
+C:\ESRI\AddAssetIDTable\AddAssetIDTable\bin\Debug\AddAssetIDTable.exe
+C:\ESRI\AddAssetIDTable\AddAssetIDTable\bin\Debug\AddAssetIDTable.pdb
+C:\ESRI\AddAssetIDTable\AddAssetIDTable\obj\Debug\AddAssetIDTable.csprojResolveAssemblyReference.cache
+C:\ESRI\AddAssetIDTable\AddAssetIDTable\obj\Debug\AddAssetIDTable.AddAssetTable.resources
+C:\ESRI\AddAssetIDTable\AddAssetIDTable\obj\Debug\AddAssetIDTable.Properties.Resources.resources
+C:\ESRI\AddAssetIDTable\AddAssetIDTable\obj\Debug\AddAssetIDTable.csproj.GenerateResource.Cache
+C:\ESRI\AddAssetIDTable\AddAssetIDTable\obj\Debug\AddAssetIDTable.csproj.CoreCompileInputs.cache
+C:\ESRI\AddAssetIDTable\AddAssetIDTable\obj\Debug\AddAssetIDTable.exe
+C:\ESRI\AddAssetIDTable\AddAssetIDTable\obj\Debug\AddAssetIDTable.pdb
